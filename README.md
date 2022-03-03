@@ -1,6 +1,6 @@
 # SQL-
-Task 1:- Understanding the Data
-Task 2:- Basic & Advanced Analysis
+### Task 1:- Understanding the Data
+### Task 2:- Basic & Advanced Analysis
 1. Write a query to display the Customer_Name and Customer Segment using alias 
 name “Customer Name", "Customer Segment" from table Cust_dimen. 
 2. Write a query to find all the details of the customer from the table cust_dimen 
